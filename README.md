@@ -5,8 +5,8 @@ An AI-powered content creation system where multiple specialized agents work tog
 Transform any topic into a professional, SEO-optimized article in minutes! This system uses three specialized AI agents that work like a real editorial team:
 
 - **Content Planner**: Researches trends, identifies audience, creates outlines
-- **✍Content Writer**: Writes engaging, well-structured articles  
-- **✏Content Editor**: Polishes grammar, tone, and overall quality
+- **Content Writer**: Writes engaging, well-structured articles  
+- **Content Editor**: Polishes grammar, tone, and overall quality
 
 ##**Key Features**
 
