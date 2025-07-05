@@ -7,19 +7,19 @@ It is an AI-powered content creation system where multiple specialized agents wo
 
 Transform any topic into a professional, SEO-optimized article in minutes! This system uses three specialized AI agents that work like a real editorial team:
 
-- ** Content Planner**: Researches trends, identifies audience, creates outlines
-- **✍ Content Writer**: Writes engaging, well-structured articles  
-- **✏ Content Editor**: Polishes grammar, tone, and overall quality
+- **Content Planner**: Researches trends, identifies audience, creates outlines
+- **Content Writer**: Writes engaging, well-structured articles  
+- **Content Editor**: Polishes grammar, tone, and overall quality
 
 ##  **Key Features**
 
-- ** Multi-Agent Collaboration**: Three AI agents working as a coordinated team
-- ** Fully Autonomous**: Just input a topic and let the AI do the rest
-- ** Dynamic Content**: Real-time research and trend analysis
-- ** Auto-Save**: Articles saved as markdown files with topic-based naming
-- ** SEO Optimized**: Includes keywords and proper content structure
-- ** Fast Generation**: Complete articles in minutes, not hours
-- ** Any Topic**: Works for technology, business, health, science, and more
+- **Multi-Agent Collaboration**: Three AI agents working as a coordinated team
+- **Fully Autonomous**: Just input a topic and let the AI do the rest
+- **Dynamic Content**: Real-time research and trend analysis
+- **Auto-Save**: Articles saved as markdown files with topic-based naming
+- **SEO Optimized**: Includes keywords and proper content structure
+- **Fast Generation**: Complete articles in minutes, not hours
+- **Any Topic**: Works for technology, business, health, science, and more
 
 ##  **Prerequisites**
 
